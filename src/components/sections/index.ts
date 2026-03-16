@@ -1,0 +1,9 @@
+export { default as HeroSection }        from "./HeroSection";
+export { default as FeaturesSection }     from "./FeaturesSection";
+export { default as InstallStepsSection } from "./InstallStepsSection";
+export { default as GatekeeperSection }   from "./GatekeeperSection";
+export { default as PermissionsSection }  from "./PermissionsSection";
+export { default as ShortcutsSection }    from "./ShortcutsSection";
+export { default as SourceSection }       from "./SourceSection";
+export { default as KnownIssuesSection }  from "./KnownIssuesSection";
+export { default as FooterSection }       from "./FooterSection";
