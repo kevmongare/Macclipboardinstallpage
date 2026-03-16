@@ -1,4 +1,3 @@
-import React from 'react';
 import type { Feature } from "@/types";
 import { SectionLabel } from "@/components/ui";
 import {
